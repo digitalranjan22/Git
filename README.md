@@ -2,8 +2,8 @@
 # to check User name
 $$ git config --global user.name
 
-$ git init
-$ git status   -->> $git add .    -->> $git status
+$ git init <br>
+$ git status   -->> $git add .    -->> $git status <br>
 $ git commit -m 'your message'
 $ git commit
 $ git remote add origin 'your_url_name'
