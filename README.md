@@ -1,6 +1,8 @@
 # Git_Learn
 ## to check User name
 $$ git config --global user.name
+## to check User Email
+$$ git config --global user.email
 
 $ git init <br>
 $ git status   -->> $git add .    -->> $git status <br>
